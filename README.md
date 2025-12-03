@@ -3,12 +3,16 @@
 ## 📋 Content
 
 - [Introduction](#introduction)
-- [System Requirement](#system-requirements)
+- [System Summary](#system-summary)
+- [Key Techniques](#key-techniques)
+- [Preprocessing & Post-processing](#pre-post-processing)
+- [Frameworks](#framework)
+- [Reposity Structure](#reposity-structure)
 - [Configuration](#configuration)
-- [Folder Structure](#folder-structure)
-- [Contributors](#contribution)
+- [Results][#result]
 - [License](#license)
-
+- [Contributors](#contributors)
+- [Citation](#citation)
 ##  Introduction
 
 This repository contains the code and system description for Team UIT-Goodguys, developed for SemEval 2026 Task 12.
@@ -44,20 +48,22 @@ PyTorch (via HuggingFace Transformers abstraction)
 transformers library (HuggingFace)
 
 ### Reposity Structure
+.
 ├── data/
 │   ├── train/
 │   ├── dev/
 │   └── test/
 ├── src/
 │   ├── dataset.py
-│   ├── SemEval2026-chunking.py
-│   ├── SemEval2026-Embedding.py
+│   ├── model.py
+│   ├── rag_module.py
 │   ├── reasoning.py
 │   └── train.py
 ├── outputs/
 │   └── predictions.json
 ├── README.md
 └── requirements.txt
+
 
 ## 🚀 Configuration
 
