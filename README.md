@@ -1,6 +1,6 @@
 # ⚖️ SemEval-2026 - Task 12
 
-## 📋 Mục lục
+## 📋 Content
 
 - [Introduction](#introduction)
 - [System Requirement](#system-requirements)
