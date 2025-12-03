@@ -48,7 +48,7 @@ PyTorch (via HuggingFace Transformers abstraction)
 transformers library (HuggingFace)
 
 ### Reposity Structure
-.
+```.
 ├── data/
 │   ├── train/
 │   ├── dev/
@@ -64,7 +64,7 @@ transformers library (HuggingFace)
 ├── README.md
 └── requirements.txt
 
-
+```
 ## 🚀 Configuration
 
 ### 1. Clone repository
