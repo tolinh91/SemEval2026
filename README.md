@@ -9,7 +9,7 @@
 - [Frameworks](#framework)
 - [Reposity Structure](#reposity-structure)
 - [Configuration](#configuration)
-- [Results][#result]
+- [Results](#result)
 - [License](#license)
 - [Contributors](#contributors)
 - [Citation](#citation)
