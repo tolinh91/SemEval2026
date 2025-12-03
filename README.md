@@ -48,7 +48,8 @@ PyTorch (via HuggingFace Transformers abstraction)
 transformers library (HuggingFace)
 
 ### Reposity Structure
-```.
+
+```
 ├── data/
 │   ├── train/
 │   ├── dev/
@@ -63,7 +64,6 @@ transformers library (HuggingFace)
 │   └── predictions.json
 ├── README.md
 └── requirements.txt
-
 ```
 ## 🚀 Configuration
 
